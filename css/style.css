@@ -86,7 +86,7 @@ button{
 }
 .soup{
 	
-	background:url(img/fon2.png) no-repeat;
+	background:url(../img/fon2.png) no-repeat;
 	display: inline-block;
 	background-size: cover;
 		width: 300px; /* Ширина слоя */
@@ -94,7 +94,7 @@ button{
 margin-top: 5%;
 }
 .puree{
-background:url(img/fon2.png) no-repeat;
+background:url(../img/fon2.png) no-repeat;
 	display: inline-block;
 	background-size: cover;
 		width: 300px; /* Ширина слоя */
@@ -102,7 +102,7 @@ background:url(img/fon2.png) no-repeat;
 margin-top: 5%;
 }
 .coffee{
-background:url(img/fon2.png) no-repeat;
+background:url(../img/fon2.png) no-repeat;
 	display: inline-block;
 	background-size: cover;
 		width: 300px; /* Ширина слоя */
@@ -111,7 +111,7 @@ margin-top: 5%;
 }
 .pie{
 	
-	background:url(img/fon2.png) no-repeat;
+	background:url(../img/fon2.png) no-repeat;
 	display: inline-block;
 	background-size: cover;
 		width: 300px; /* Ширина слоя */
@@ -121,7 +121,7 @@ margin-top: 5%;
 	}
 .dumpling{
 
-background:url(img/fon2.png) no-repeat;
+background:url(../img/fon2.png) no-repeat;
 	display: inline-block;
 	background-size: cover;
 		width: 300px; /* Ширина слоя */
@@ -130,7 +130,7 @@ margin-top: 5%;
 	}
 .kystyby{
 	
-background:url(img/fon2.png) no-repeat;
+background:url(../img/fon2.png) no-repeat;
 	display: inline-block;
 	background-size: cover;
 		width: 300px; /* Ширина слоя */

@@ -5,7 +5,7 @@ body{
 	height:500px;
 	background-image:url(../img/fon0.jpg);
 	background-size: 100% 100%; /* Разрешение мониторов постоянно растёт и при вёрстке веб-страниц приходится учитывать самый широкий диапазон разрешений. Это особенно важно при использовании фонового рисунка, который либо обрезается при низком разрешении монитора, либо, наоборот, целиком не помещается при высоком разрешении. Одним из решений подобной ситуации является масштабирование фона. Конечно, это сулит некоторые неприятности вроде появления искажений и артефактов в изображениях, но и расширяет арсенал средств вёрстки.*/
-
+	
 	
 }
 
@@ -87,6 +87,61 @@ button{
 	
 	
 }
+.soup{
+	
+	background:url(img/fon2.png) no-repeat;
+	display: inline-block;
+	background-size: cover;
+		width: 300px; /* Ширина слоя */
+			margin-left: 3%;
+margin-top: 5%;
+}
+.puree{
+background:url(img/fon2.png) no-repeat;
+	display: inline-block;
+	background-size: cover;
+		width: 300px; /* Ширина слоя */
+			margin-left: 3%;
+margin-top: 5%;
+}
+.coffee{
+background:url(img/fon2.png) no-repeat;
+	display: inline-block;
+	background-size: cover;
+		width: 300px; /* Ширина слоя */
+			margin-left: 3%;
+margin-top: 5%;
+}
+.pie{
+	
+	background:url(img/fon2.png) no-repeat;
+	display: inline-block;
+	background-size: cover;
+		width: 300px; /* Ширина слоя */
+			margin-left: 3%;
+margin-top: 5%;
+
+	}
+.dumpling{
+
+background:url(img/fon2.png) no-repeat;
+	display: inline-block;
+	background-size: cover;
+		width: 300px; /* Ширина слоя */
+			margin-left: 3%;
+margin-top: 5%;
+	}
+.kystyby{
+	
+background:url(img/fon2.png) no-repeat;
+	display: inline-block;
+	background-size: cover;
+		width: 300px; /* Ширина слоя */
+		margin-left: 3%;
+margin-top: 5%;
+	
+}
+
 .bottom2{
 	background-color: gray;
 
@@ -94,4 +149,8 @@ button{
 }
 table {
     border-spacing: 250px 5px; /* Горизонтальный отступ, вертикальный отступ */ 
+}
+
+.text{
+
 }
