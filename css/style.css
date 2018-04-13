@@ -1,6 +1,7 @@
 .top1{
 	height:500px;
 	background-image:url(../img/fon0.jpg);
+	 background-size: cover;
 
 	
 }
@@ -78,6 +79,7 @@ button{
 	height:800px;
 	width:100%;
 	background:url(../img/fon1.jpg) no-repeat;
+	 background-size: cover;
 	text-align:center;
 	padding-top: 2%;
 	
